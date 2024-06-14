@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "+iTr4h9dY8xMzpc8z4Sz44X8v17rkBaG96GoPfMCjhw=",
+  "Source": "practica02",
+  "BasePath": "_content/practica02",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "practica02/wwwroot",
+      "Source": "practica02",
+      "ContentRoot": "/app/practica02/wwwroot/",
+      "BasePath": "_content/practica02",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/app/practica02/wwwroot/index.html",
+      "SourceId": "practica02",
+      "SourceType": "Discovered",
+      "ContentRoot": "/app/practica02/wwwroot/",
+      "BasePath": "_content/practica02",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

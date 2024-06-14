@@ -1,0 +1,7 @@
+# Imagen de webservice soap y .net
+from dotnet5-soap
+# nota: copiar practica03 en la misma ruta que el Dockerfile
+copy ./practica03 /app
+cmd ["dotnet", "run"]
+# Para ejecutar esta imagen:
+# docker run -it --rm -p origen:5000 NombreImagen
